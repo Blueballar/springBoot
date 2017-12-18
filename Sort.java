@@ -48,7 +48,6 @@ public class Sort{
 		}
 
 	}
-
 	public static void mergeSort(int[]data,int begin,int end){
 		if(begin>=end){
 			return;
